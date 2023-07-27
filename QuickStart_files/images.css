@@ -58,14 +58,13 @@ position: relative;
 
 .button {
     height: 60px;
-    border: 1px solid #BBBBBB; 
-    background-color: #419136;
+    border: 3px solid #BBB;
+    background-color: #419236;
     width: 25%;
-    color: #FFFFFF;
+    color: #DDD;
     font-size: 24px;
     display: block;
     position: relative;
-    text-decoration: none;
     box-shadow: 0px 4px 14px #191919;
     border-radius: 10px;
     cursor: pointer;
